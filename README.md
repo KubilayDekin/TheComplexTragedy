@@ -7,9 +7,9 @@
 </head>
 <body>
 
-<a href="https://kubilaydekin.github.io/TheComplexTragedy/TheComplexTragedyCredits.html" target="_blank">The Complex Tragedy Credits</a>
+<li><a href="https://kubilaydekin.github.io/TheComplexTragedy/TheComplexTragedyCredits.html" target="_blank">The Complex Tragedy Credits</a></li>
 
-<a href="https://store.steampowered.com/app/2767400/The_Complex_Tragedy/" target="_blank">The Complex Tragedy Steam Page</a>
+<li><a href="https://store.steampowered.com/app/2767400/The_Complex_Tragedy/" target="_blank">The Complex Tragedy Steam Page</a></li>
 
 </body>
 </html>
